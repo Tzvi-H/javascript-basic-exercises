@@ -1,4 +1,4 @@
-**Solutions to Launch School's JS100 exercises**
+**Solutions to Launch School's JS100 basic Javascript exercises**
 
 - strings 
 - arrays 
